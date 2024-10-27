@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(231, 239, 225) ;
+}
+.profile {
+    border: 30px solid white;
+    border-radius: 60px;
+}
+
+.profile2 img,
+.profile3 img,
+.profile4 img {
+    width: 350px;
+    border-radius: 30px;
+}
+
+.profile4 img {
+    height: 400px;
+}
+
+@media screen {
+    
+}
